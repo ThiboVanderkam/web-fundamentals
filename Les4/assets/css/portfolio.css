@@ -1,0 +1,37 @@
+.section {
+    margin: 100px;
+    padding: 50px;
+    text-align: center;
+
+    background-color: lightseagreen;
+}
+
+.container {
+    width: 50%;
+    margin: 0 auto;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: blue;
+}
+
+a:active {
+    color: red;
+}
+
+.square {
+    background-color: rebeccapurple;
+    display: block;
+    opacity: 0;
+
+    height: 400px;
+}
+

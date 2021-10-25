@@ -1,0 +1,30 @@
+/*
+    Style the tagnames
+*/
+
+h1, h2, h3 {
+    color: purple;
+    text-decoration: underline;
+}
+
+
+
+/*
+    Classes
+*/
+
+.title-green {
+    color: green;
+}
+
+.background-red {
+    background-color: yellow;
+}
+
+/*
+    Id
+*/
+
+#jamaica-title {
+    font-style: italic;
+}
