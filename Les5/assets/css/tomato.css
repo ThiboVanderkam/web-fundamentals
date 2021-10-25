@@ -1,0 +1,53 @@
+body {
+    background-color: lightgreen;
+}
+
+.tomaat {
+    width: 150px;
+    height: 150px;
+
+    background-color: tomato;
+    border-radius: 100%;
+    position: relative;
+
+    position: relative;
+
+    order: 1;
+}
+
+.tomaat-yellow-pear {
+    background-color: darkgoldenrod;
+}
+
+.tomaat-small {
+    width: 75px;
+    height: 75px;
+    order: 0;
+}
+
+.kroontje {
+    width: 30px;
+    height: 30px;
+
+    background-color: green;
+    position: absolute;
+    top: 10px;
+    left: 50px;
+
+    transform: rotate(50deg);
+}
+
+.tomaat-small .kroontje{
+    width: 20px;
+    height: 20px;
+    left: 20px;
+}
+
+.moestuin {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    align-items: center;
+    
+}
