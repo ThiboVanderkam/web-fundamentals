@@ -1,17 +1,17 @@
 //tellen van 1 tot honderd
-/*
+
 for (var number = 1; number <= 100; number++) {
     console.log(number);
 }
-*/
+
 
 
 //geef mij alle even getallen van 1 tot 100
-/*
+
 for (var i = 0; i <= 100; i += 2) {
     console.log(i);
 }
-*/
+
 
 
 // while loop
@@ -22,7 +22,7 @@ var user = {
 };
 
 
-/*
+
 var password = prompt("Give ma yah password");
 console.log(password);
 
@@ -31,7 +31,7 @@ while (password != user.password) {
     
     password = prompt("Give ma yah password");
 }
-*/
+
 
 var password = "";
 do {
