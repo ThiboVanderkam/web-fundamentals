@@ -1,0 +1,35 @@
+body {
+    background-color: lightcoral;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+.mainsection {
+    text-align: center;
+    color: lightcyan;
+}
+
+img {
+    border: dotted red 5px;
+}
+
+a {
+    color: red;
+    font-style: italic;
+    margin-top: 100px;
+    margin-left: 750px;
+    margin-right: 750px;
+    padding: 50px;
+    background-color: black;
+    
+}
+
+a:hover {
+    opacity: 0.5;
+}
+
+span {
+    color: orange;
+}

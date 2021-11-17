@@ -1,0 +1,24 @@
+h1 {
+    font-family: arial;
+    color: red;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+    color: yellow;
+}
+
+@font-face {
+    font-family: 'Amatics';
+    src: url('../fonts/AmaticSC-Regular.ttf');
+  }
+
+h3 {
+    font-family: 'Amatics';
+    color: blue;
+}
+
+h4 {
+    font-family: arial;
+    color: green;
+}

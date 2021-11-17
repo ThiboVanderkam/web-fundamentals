@@ -1,0 +1,7 @@
+.invisibility {
+    width: 100px;
+}
+
+.invisibility:hover {
+    opacity: 0;
+}

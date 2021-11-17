@@ -1,0 +1,82 @@
+body {
+    background-image: url("../images/background.jpeg");
+}
+
+.mainsection {
+    width: 60%;
+    margin: 0 auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    text-align: center;
+    background-color: white;
+    align-items: center;
+    position: relative;
+    display: block;
+}
+
+h1 {
+    font-family: "Lucida Handwriting", cursive;
+}
+
+.logo {
+    width: 350px;
+    height: 200px;
+}
+
+.title {
+    border: 3px dashed black;
+    margin: 30px;
+}
+
+.navigation {
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.navigationlink {
+    color: black;
+    font-family: "Lucida Handwriting", cursive;
+}
+
+.navigationlink:hover {
+    background-color: black;
+    color: white;
+}
+
+.middlesection {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 50px;
+}
+
+.houses {
+    display: flex;
+    justify-content: space-between;
+}
+
+.seehouses {
+    display: flex;
+    justify-content: space-between;
+}
+
+.seehousebutton {
+    width: 200px;
+    padding-top: 25px;
+    padding-bottom: 25px; 
+    text-align: center center;
+    background-color: black;
+    color: white;
+    font-family: "Lucida Handwriting", cursive;
+    border-radius: 10px;
+}
+
+.seehousebutton:hover {
+    opacity: 0.5;
+}

@@ -1,0 +1,28 @@
+.background {
+    width: 300px;
+}
+
+.person1 {
+    top: -313px;
+    left: 493px;
+    position: relative;
+    
+}
+
+.person2 {
+    top: -365px;
+    left: -5px;
+    position: relative;
+    
+}
+
+.background:hover .person1{
+    top: -365px;
+    left: 119px;
+}
+
+.background:hover .person2{
+    top: -313px;
+    left: 369px;
+}
+

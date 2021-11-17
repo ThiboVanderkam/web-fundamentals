@@ -1,0 +1,40 @@
+.pixelrow {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.square {
+    width: 30px;
+    height:30px;
+    border: 1px solid black;
+    
+}
+
+.red {
+    width: 30px;
+    height:30px;
+    background-color: red;
+    border: 1px solid black;
+}
+
+.white {
+    width: 30px;
+    height:30px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.grey {
+    width: 30px;
+    height: 30px;
+    background-color: #211c1a;
+    border: 1px solid black;
+}
+
+.yellow {
+    width: 30px;
+    height:30px;
+    background-color: yellow;
+    border: 1px solid black;
+}
